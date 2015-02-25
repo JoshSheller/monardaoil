@@ -187,8 +187,9 @@ footer {
     }
 
     .headline h1 {
-        font-size: 10px;
+        font-size: 28px;
         padding-bottom: 200px;
+        margin-top: 40%;
     }
 
     .headline h2 {
