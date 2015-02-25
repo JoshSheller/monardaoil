@@ -14,11 +14,12 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url("http://www.minnesotawildflowers.info/udata/r9ndp23q/pd2/monarda-fistulosa-003.jpg") no-repeat center center scroll;
+    background: url("./monarda_field.jpeg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 783px;
 }
 
 .headline {
@@ -29,6 +30,8 @@ body {
     font-size: 55px;
     color: black;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    padding-top:461px;
+    padding-right:20px;
 }
 
 .headline h2 {
