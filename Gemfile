@@ -4,6 +4,9 @@ source 'https://rubygems.org'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 
+#Trying to fix compiling styles and assets issue
+gem 'rails_12factor'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 # Use postgresql as the database for Active Record
