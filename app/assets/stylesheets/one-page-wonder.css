@@ -28,9 +28,9 @@ body {
 
 .headline h1 {
     font-size: 55px;
-    color: lightgreen;
+    color: #90ee90;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    padding-top:42%;
+    padding-top:42;
     padding-right:20px;
 }
 
@@ -99,8 +99,7 @@ footer {
 
 @media(max-width:1200px) {
     .headline h1 {
-        font-size: 45px !important;
-        padding-top: 46% !important;
+        font-size: 140px;
     }
 
     .headline h2 {
@@ -126,8 +125,7 @@ footer {
 
 @media(max-width:991px) {
     .headline h1 {
-        font-size: 29px !important;
-        padding-top: 58% !important;
+        font-size: 105px;
     }
 
     .headline h2 {
@@ -171,8 +169,7 @@ footer {
 
 @media(max-width:668px) {
     .headline h1 {
-        font-size: 28px !important;
-        padding-top: 65% !important;
+        font-size: 70px;
     }
 
     .headline h2 {
@@ -190,8 +187,7 @@ footer {
     }
 
     .headline h1 {
-        font-size: 28px !important;
-        padding-top: 78% !important;
+        font-size: 60px;
     }
 
     .headline h2 {
