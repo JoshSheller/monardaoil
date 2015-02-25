@@ -27,7 +27,7 @@ body {
 }
 
 .headline h1 {
-    font-size: 45px;
+    font-size: 45px !important;
     color: #90ee90;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     padding-top: 46%;
@@ -125,7 +125,7 @@ footer {
 
 @media(max-width:991px) {
     .headline h1 {
-        font-size: 105px;
+        font-size: 30px;
     }
 
     .headline h2 {
