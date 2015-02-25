@@ -1,6 +1,9 @@
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
+  # @JAS compiling files for heroku
+  config.assets.compile = true
+
   # Code is not reloaded between requests.
   config.cache_classes = true
 
