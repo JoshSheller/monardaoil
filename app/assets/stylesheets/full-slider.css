@@ -4,6 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+html,
+body {
+    height: 100%;
+}
+
 .carousel,
 .item,
 .active {
@@ -12,6 +17,13 @@
 
 .carousel-inner {
     height: 100%;
+}
+
+/* JAS increasing prev/next arrow size */
+.carousel-control .icon-prev, 
+.carousel-control .icon-next {
+    font-size: 100px !important;
+    margin-top: -60px !important;
 }
 
 /* Background images are set within the HTML using inline CSS, not here */

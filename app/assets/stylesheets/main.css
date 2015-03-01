@@ -9,7 +9,7 @@ body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-
+/*! Removing css from old homepage image
 .header-image {
     display: block;
     width: 100%;
@@ -40,16 +40,14 @@ body {
     background: rgba(255,255,255,0.9);
 }
 
+*/
+
 .featurette-divider {
     margin: 80px 0;
 }
 
 .featurette {
     overflow: hidden;
-}
-
-.featurette-image.pull-left {
-    margin-right: 40px;
 }
 
 #first-image {
@@ -83,6 +81,10 @@ body {
 
 #featurette-3 {
     padding-bottom: 15px;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
 }
 
 .featurette-image.pull-right {
